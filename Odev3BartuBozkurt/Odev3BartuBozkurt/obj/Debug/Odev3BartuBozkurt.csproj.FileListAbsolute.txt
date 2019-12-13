@@ -1,0 +1,11 @@
+C:\Users\bartu\Desktop\Odev3BartuBozkurt\Odev3BartuBozkurt\bin\Debug\Odev3BartuBozkurt.exe.config
+C:\Users\bartu\Desktop\Odev3BartuBozkurt\Odev3BartuBozkurt\bin\Debug\Odev3BartuBozkurt.exe
+C:\Users\bartu\Desktop\Odev3BartuBozkurt\Odev3BartuBozkurt\bin\Debug\Odev3BartuBozkurt.pdb
+C:\Users\bartu\Desktop\Odev3BartuBozkurt\Odev3BartuBozkurt\obj\Debug\Odev3BartuBozkurt.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\Odev3BartuBozkurt\Odev3BartuBozkurt\obj\Debug\Odev3BartuBozkurt.Form1.resources
+C:\Users\bartu\Desktop\Odev3BartuBozkurt\Odev3BartuBozkurt\obj\Debug\Odev3BartuBozkurt.Properties.Resources.resources
+C:\Users\bartu\Desktop\Odev3BartuBozkurt\Odev3BartuBozkurt\obj\Debug\Odev3BartuBozkurt.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\Odev3BartuBozkurt\Odev3BartuBozkurt\obj\Debug\Odev3BartuBozkurt.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\Odev3BartuBozkurt\Odev3BartuBozkurt\obj\Debug\Odev3BartuBozkurt.exe
+C:\Users\bartu\Desktop\Odev3BartuBozkurt\Odev3BartuBozkurt\obj\Debug\Odev3BartuBozkurt.pdb
+C:\Users\bartu\Desktop\Odev3BartuBozkurt\Odev3BartuBozkurt\obj\Debug\Odev3BartuBozkurt.hakkında.resources
